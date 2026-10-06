@@ -1,3 +1,11 @@
-function sayHello() {
-  alert("Hello from Azure via GitHub Actions!");
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+button {
+  padding: 10px;
+  background-color: steelblue;
+  color: white;
+  border-radius: 5px;
 }
